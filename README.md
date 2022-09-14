@@ -22,4 +22,4 @@ Using Tableau, I created a set of visualizations to present a business proposal 
 ![image](https://user-images.githubusercontent.com/100629325/189813884-675ef97a-af40-4f24-bd3b-c2cc178400da.png)
 * The male subscribers are renting the bikes the most on Thursdays and Fridays
 
-[Link to dashboard](https://public.tableau.com/app/profile/laura.hemydin/viz/M14Challenge-BikeSharingProject/UserTripsbyGenderbyWeekday?publish=yes)
+[Link to dashboard](https://public.tableau.com/app/profile/laura.hemydin/viz/M14Challenge-BikeSharingProject/BikeTripAnalysis?publish=yes)
