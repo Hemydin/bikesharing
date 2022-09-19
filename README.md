@@ -35,5 +35,5 @@ Most bike trips originate in the business heart of Lower Manhattan, and the usag
 #### Summary
 To summarize the results:
 * Most usership comes from male subscribers, who make up 65% of the total customers.
-* The most popular ride times are 7 am - 9 am and 5 pm - 7 pm, Monday through Friday. Thursday is the highest popular usage day among subscribers. 
+* The most popular ride times are 7 am - 9 am and 5 pm - 7 pm, Monday through Friday. Thursday is the highest usage day among subscribers. 
 * The majority of all rides appear to be less than 20 minutes. 
