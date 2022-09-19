@@ -30,7 +30,7 @@ The month of August is one of the busiest months for bike-sharing business. Over
 
 #### 7. Top Ride Starting Locations
 ![image](https://user-images.githubusercontent.com/100629325/191113391-60e7b5b1-65f2-4915-b1a2-10c36dcf835d.png)
-It is apperent that the most bike trips are originating in the business heart of Lower Manhattan. The usage slows down in less density packed surrounding neighborhoods.
+Most bike trips originate in the business heart of Lower Manhattan, and the usage slows down in less dense packed surrounding neighborhoods.
 
 #### Summary
 To summarize the results:
