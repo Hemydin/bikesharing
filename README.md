@@ -1,4 +1,4 @@
-# Bike Sharing Visualization
+# Bike Sharing Visualization using Tableau
 
 ## Project Overview: 
 The purpose of the project was to analyze bike-sharing data in New York City and use it to prepare the visual analysis for potential investors looking to begin a bike-sharing program in the city of Des Moines, IO. The focus of the analysis was on the bike trips duration:
