@@ -32,8 +32,7 @@ The month of August is one of the busiest months for bike-sharing business. Over
 ![image](https://user-images.githubusercontent.com/100629325/191113391-60e7b5b1-65f2-4915-b1a2-10c36dcf835d.png)
 Most bike trips originate in the business heart of Lower Manhattan, and the usage slows down in less dense packed surrounding neighborhoods.
 
-#### Summary
-To summarize the results:
+## To summarize the results:
 * Most usership comes from male subscribers, who make up 65% of the total customers.
 * The most popular ride times are 7 am - 9 am and 5 pm - 7 pm, Monday through Friday. Thursday is the highest usage day among subscribers. 
 * The majority of all rides appear to be less than 20 minutes. 
