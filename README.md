@@ -13,7 +13,7 @@ The purpose of the project was to analyze bike-sharing data in New York City and
 * The majority of all bikes are checked out for less than 20 minutes. 
 #### 2. The length of time that bikes are checked out for each gender
 ![image](https://user-images.githubusercontent.com/100629325/189811628-94038dc9-18cf-423b-b467-210d060bf341.png)
-* The largerst number of users appear to be males. Male accounts for more than three times the usage of females
+* The largerst number of users appear to be males. Male users account for more than three times the usage of females
 #### 3. The number of bike trips by weekday for each hour of the day
 ![image](https://user-images.githubusercontent.com/100629325/189812378-20f969f1-e504-404a-9c0c-5518c5a48704.png)
 * The most popular times to ride a bike occur during the commuting hours, Monday through Friday, 7am - 9am and 5pm - 7pm
