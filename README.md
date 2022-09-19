@@ -23,4 +23,6 @@ The purpose of the project was to analyze bike-sharing data in New York City and
 #### 5. The number of bike trips broken down by gender for each day of the week by each Usertype
 ![image](https://user-images.githubusercontent.com/100629325/189813884-675ef97a-af40-4f24-bd3b-c2cc178400da.png)
 * Most trips come from Subscribers likely using to commute during the weekdays. The largest usage takes place on Monday, Tuesday, Thursday, and Friday. 
-
+#### 6. The customer description
+![image](https://user-images.githubusercontent.com/100629325/191112620-7bf640da-4f0a-46d1-b9ee-d61dd35425af.png)
+The month of August is one of the busiest months for bike-sharing business. Overview of the analysis shows that the total of 2,344,224 million rides in a month of August. 65% of all rides were done by male, 25% female and 10% unknown. Furthermore, 80% of rides were subscribed customers. 
